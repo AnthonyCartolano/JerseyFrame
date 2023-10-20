@@ -1,2 +1,2 @@
 # JerseyFrame
-Code for mu jersey frame project
+Code for my jersey frame project
